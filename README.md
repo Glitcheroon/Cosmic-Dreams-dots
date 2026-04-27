@@ -1,4 +1,4 @@
-A simple and minimalist rice for i3 WM meant for Arch Linux based on Arknight: Endfield
+A simple rice for i3 WM meant for Archlinux themed after Arknights: Endfield new event "Etchings of Our Cosmic Dreams". 
 
 Packages:
  - picom
